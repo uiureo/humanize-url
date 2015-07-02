@@ -40,7 +40,7 @@
   ],
   "dependencies": {
     "normalize-url": "^1.0.0",
-    "strip-url-auth": "^1.0.0"
+    "strip-url-auth": "uiureo/strip-url-auth#fix-path"
   },
   "devDependencies": {
     "ava": "0.0.4"
